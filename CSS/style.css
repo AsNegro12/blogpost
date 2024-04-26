@@ -44,10 +44,11 @@ body {
     background: white;
     padding: 1em;
 }
+
 #imageEje {
-    width: 250px;
-    padding: 1em;
+    width: 30%;
     margin: 1em;
+    padding: 1em;
 }
 
 #footer {
