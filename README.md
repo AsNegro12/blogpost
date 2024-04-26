@@ -10,6 +10,7 @@ En este curso podemos ver:
 * El desenso a la locura de freddy
 * creado por platzi
 * incluye ejemplos en Windows, Linux y MacOs
+* disponible para todas las edades
 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihaJTikhE_pj9BK3WeEglsLPK2WtaRvi0-SjZ-Stge-r-kU5QmIL1L4K4TEX3_ffL80y2zFAboRRUEihN6D7K3_6_eAheYLB7to=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaJTikhE_pj9BK3WeEglsLPK2WtaRvi0-SjZ-Stge-r-kU5QmIL1L4K4TEX3_ffL80y2zFAboRRUEihN6D7K3_6_eAheYLB7to=s1600-rw-v1" title="Oh no, mataron a kenny" width="30%"/> </a>
 
