@@ -11,4 +11,4 @@ En este curso podemos ver:
 
 <a href="https://lh3.googleusercontent.com/drive-viewer/AKGpihaJTikhE_pj9BK3WeEglsLPK2WtaRvi0-SjZ-Stge-r-kU5QmIL1L4K4TEX3_ffL80y2zFAboRRUEihN6D7K3_6_eAheYLB7to=s1600-rw-v1?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihaJTikhE_pj9BK3WeEglsLPK2WtaRvi0-SjZ-Stge-r-kU5QmIL1L4K4TEX3_ffL80y2zFAboRRUEihN6D7K3_6_eAheYLB7to=s1600-rw-v1" title="Oh no, mataron a kenny" width="30%"/> </a>
 
-Este solo es una ejemplo de **readme.md**  diseñado para el [curso de Git y Github de Platzi](https://platzi.com/cursos/git-github/ "Curso de Git y Github de Platzi"). NADA DE ESTO TELO TOMEMES EN SERIO.
+Este solo es una ejemplo de **readme.md**  diseñado para el [curso de Git y Github de Platzi](https://platzi.com/cursos/git-github/ "Curso de Git y Github de Platzi"). NADA DE ESTO TE LO TOMES EN SERIO.
